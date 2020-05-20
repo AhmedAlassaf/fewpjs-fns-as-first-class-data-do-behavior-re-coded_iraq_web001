@@ -19,5 +19,5 @@ function greet(time) {
 /* Write your implementation of displayMessage() */
 
 function displayMessage() {
-  document.getElementById(greeting).InnerText = 'Tik Tok time is running out!'
+  document.getElementById(greeting).InnerText = Tik Tok time is running out!;
 }
